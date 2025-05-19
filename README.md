@@ -1,4 +1,5 @@
-#Codes for the momordica charantia T2T Genome Sequencing project in 2023
+Codes for the momordica charantia T2T Genome Sequencing project in 2023
+===
 
 ##01. T2T Genome assembly and polishing
 Codes for de novo genome assembly and polishing.
